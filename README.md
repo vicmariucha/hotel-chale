@@ -1,6 +1,6 @@
-# Hotel Chalé 🏨
+# Hotel chalé 🏨
 
-Este é um projeto desenvolvido durante um curso de **HTML, CSS e JavaScript** em 2024. O objetivo foi criar um site simples para um hotel fictício chamado "Hotel Chalé".
+Este é um projeto desenvolvido durante um curso de **HTML, CSS e JavaScript** em 2024. O objetivo foi criar um site simples para um hotel fictício chamado "Hotel chalé".
 
 ## 📌 Funcionalidades
 - Página inicial com informações sobre o hotel
